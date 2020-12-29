@@ -1,7 +1,6 @@
 # React-Gif-App
 
-The <a herf="https://darshanmaradiya.github.io/React-Gif-App/" target="_blank">Gif application</a> is created using concepts of <b>Custom Hooks</b> in React<br>
-<br>
+The <a href="https://darshanmaradiya.github.io/React-Gif-App/" target="_blank">Gif application</a> is created using concepts of <b>Custom Hooks</b> in React<br>
 
 # About Gif-App
 <ul>
